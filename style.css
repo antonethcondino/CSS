@@ -1,0 +1,19 @@
+header {
+    background-color: #ADD8E6; 
+}
+header h1 {
+    color: #fafbfb
+}
+.nav {
+    border-bottom: 2px solid black;
+}
+nav ul li a {
+    font-size: 18px;
+}
+footer {
+    text-align: center;
+}
+.box {
+    background-color: rgb(37, 155, 155); 
+    padding: 20px;
+}
